@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/WebAssembly/binaryen.svg?branch=master)](https://travis-ci.org/WebAssembly/binaryen) [![Windows CI](https://ci.appveyor.com/api/projects/status/nvm9tuwxnup9h5ar/branch/master?svg=true)](https://ci.appveyor.com/project/WebAssembly/binaryen/branch/master)
 
-# Binaryen
+# Binaryen (Arisen version)
 
 Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make [compiling to WebAssembly](https://github.com/WebAssembly/binaryen/wiki/Compiling-to-WebAssembly-with-Binaryen) **easy, fast, and effective**:
 
